@@ -23,14 +23,10 @@ public class CAFData {
     private static final int bufferSize = 100 * 1024; // ~130K.
     private ByteBuffer byteData = null;
 
-
-    //Constructors
-
     public CAFData(byte[] bytes, int length) {
 
         byteData = ByteBuffer.wrap(bytes, 0, length);
     }
-
 
     public CAFData(String path) {
         File inFile = new File(path);

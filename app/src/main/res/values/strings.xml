@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Clima</string>
+    <string name="app_name">Weather</string>
     <string name="titulo">How is the weather?</string>
     <string name="btn_search">Search weather</string>
     <string name="Actusl">Current</string>
@@ -10,5 +10,5 @@
     <string name="Clima_minimo">Min weather</string>
     <string name="Clima_maximo">Max weather</string>
     <string name="Estado_clima">Here weather</string>
-    <string name="btn_go">Go to maps</string>
+    <string name="btn_go">Go maps</string>
 </resources>
